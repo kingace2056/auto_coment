@@ -18,6 +18,8 @@ mouse = Controller()
 
 
 for i in range(20):
+# This is where you need to make changes in order to post required comment
+#in the cmtList ; Put your required comment and let the program do remaining work 
     cmtList = ['Goli OP <3 <3 ','Goli Le hanxa hai aaba','Hello guys','Goli ko supporters le Goli OP lekham hai','Dont Spam Hai Guys','Revival Gaming OP','Revival OP','Dai audience alli kam vaye hai ', 'Goli OP <3 <3 ']
     mouse.position = (851, 256)
     #alter values in sleep for desired delay in comments . I prefer keeping all of them 2 to avoid getting banned .
